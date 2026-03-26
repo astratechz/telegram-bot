@@ -76,7 +76,7 @@ async (msg, Gifted, conText) => {
             urlButton('👑 Owner', 'https://t.me/astra3code')
         ],
         [
-            urlButton('💬 Support Group', 'https://t.me/giftedmd')
+            urlButton('💬 Support Group', 'https://t.me/astrachatz')
         ]
     ]);
 
