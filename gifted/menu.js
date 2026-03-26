@@ -72,8 +72,8 @@ async (msg, Gifted, conText) => {
 
     const menuButtons = buildButtons([
         [
-            urlButton('🌐 Bot Site', 'https://giftedsite.vercel.app'),
-            urlButton('👑 Owner', 'https://t.me/mauricegift')
+            urlButton('🌐 SMM Panel', 'https://astrapanel.site'),
+            urlButton('👑 Owner', 'https://t.me/astra3code)
         ],
         [
             urlButton('💬 Support Group', 'https://t.me/giftedmd')
@@ -149,11 +149,11 @@ async (msg, Gifted, conText) => {
 
     const menuButtons = buildButtons([
         [
-            urlButton('🌐 Bot Site', 'https://giftedsite.vercel.app'),
-            urlButton('👑 Owner', 'https://t.me/mauricegift')
+            urlButton('🌐 SMM Panel', 'https://astrapanel.site),
+            urlButton('👑 Owner', 'https://t.me/astra3code)
         ],
         [
-            urlButton('💬 Support Group', 'https://t.me/giftedmd')
+            urlButton('💬 Support Group', 'https://t.me/astrachatz')
         ]
     ]);
 
