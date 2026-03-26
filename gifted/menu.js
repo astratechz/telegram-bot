@@ -73,7 +73,7 @@ async (msg, Gifted, conText) => {
     const menuButtons = buildButtons([
         [
             urlButton('🌐 SMM Panel', 'https://astrapanel.site'),
-            urlButton('👑 Owner', 'https://t.me/astra3code)
+            urlButton('👑 Owner', 'https://t.me/astra3code')
         ],
         [
             urlButton('💬 Support Group', 'https://t.me/giftedmd')
@@ -149,8 +149,8 @@ async (msg, Gifted, conText) => {
 
     const menuButtons = buildButtons([
         [
-            urlButton('🌐 SMM Panel', 'https://astrapanel.site),
-            urlButton('👑 Owner', 'https://t.me/astra3code)
+            urlButton('🌐 SMM Panel', 'https://astrapanel.site'),
+            urlButton('👑 Owner', 'https://t.me/astra3code')
         ],
         [
             urlButton('💬 Support Group', 'https://t.me/astrachatz')
