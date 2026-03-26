@@ -16,7 +16,7 @@ const config = {
   ownerUsername: process.env.OWNER_USERNAME || "astra3code",
   apiUrl: process.env.API_URL || "https://api.giftedtech.co.ke", // Can replce with yours
   artistName: process.env.ARTIST_NAME || "Powered by AstraTech",
-  url: process.env.URL || "https://gitcdn.giftedtech.co.ke/image/AZO_image.jpg",
+  url: process.env.URL || "https://i.postimg.cc/YSCQKKfz/280861.jpg",
   sourceUrl: process.env.SOURCE_URL || "https://github.com/mauricegift/telegram-bot",
 
   greetNewMembers: {
