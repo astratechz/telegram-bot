@@ -7,15 +7,15 @@ if (fs.existsSync(".env")) {
 
 const config = {
   token: process.env.BOT_TOKEN || "", // Your bot token
-  owner_id: process.env.OWNER_ID || "", // Your telegram chat id
+  owner_id: process.env.OWNER_ID || "1088583201", // Your telegram chat id
   prefix: process.env.PREFIX || "/", // Your preferred prefix
   apiKey: process.env.API_KEY || "gifted", //Replace with your unlimited/paid apikey
-  botName: process.env.BOT_NAME || "ASTRA-MD",
+  botName: process.env.BOT_NAME || "Astra-MD",
   timezone: process.env.TIMEZONE || "Africa/Nairobi",
-  ownerName: process.env.OWNER_NAME || "Maurice Gift",
+  ownerName: process.env.OWNER_NAME || "astra3code",
   ownerUsername: process.env.OWNER_USERNAME || "astra3code",
   apiUrl: process.env.API_URL || "https://api.giftedtech.co.ke", // Can replce with yours
-  artistName: process.env.ARTIST_NAME || "Powered by AstraTech Apis",
+  artistName: process.env.ARTIST_NAME || "Powered by AstraTech",
   url: process.env.URL || "https://gitcdn.giftedtech.co.ke/image/AZO_image.jpg",
   sourceUrl: process.env.SOURCE_URL || "https://github.com/mauricegift/telegram-bot",
 
